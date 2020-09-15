@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Задача {{ object.id }}{% endblock %}
+
+{% block main_content %}
+  <h1>Текущее число и дата</h1>
+  <p><b>Закэшировано на 5 минут</b>: {{ data }}</p>
+{% endblock %}

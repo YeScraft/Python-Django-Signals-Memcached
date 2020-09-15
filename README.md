@@ -1,1 +1,1 @@
-# Skillfactory-module-d8_7-YeSergey
+# Example todoapp project
