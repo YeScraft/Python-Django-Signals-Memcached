@@ -9,6 +9,7 @@
 7. Запустить сервер: python manage.py runserver.
 
 Heroku - https://enigmatic-eyrie-72209.herokuapp.com/
+Управление через админ панель с логином pws_admin и паролем sf_password.
 
 Задание:
 
