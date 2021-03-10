@@ -1,4 +1,4 @@
-# Skillfactory-module-d8_7-YeSergey (Python, Django-Signals)
+# Skillfactory-module-d8_7-YeSergey (Python, Django-Signals, Django-cache)
 Для работы с приложением:
 1. Скачайте приложение.
 2. В cmd ввести: cd путь до папки с проектом;
